@@ -1,0 +1,16 @@
+
+[WIP]
+
+Extending my (not my work) the popular Win10 Widgets Rainmeter Theme to have temperature overlays on the 
+medium-sized performance widgets.
+
+
+Requirements for you to use this: 
+-Rainmeter: https://www.rainmeter.net/
+-Win10 Widgets: http://win10widgets.com/
+-Roboto Font Family: https://fonts.google.com/specimen/Roboto?selection.family=Roboto
+-HWiNFO64: https://www.hwinfo.com/download.php
+-HWiNFO64 Rainmeter plugin: https://www.hwinfo.com/addons.php
+-The willingness to follow this guide to find your system specific sensor information and change those
+	values in a master .ini file I will eventually make but for now they're in each template file:
+		https://forum.rainmeter.net/viewtopic.php?t=21939
