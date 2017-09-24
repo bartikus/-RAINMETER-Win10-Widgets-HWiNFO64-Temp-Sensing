@@ -1,7 +1,6 @@
 
-[WIP]
 
-Extending my (not my work) the popular Win10 Widgets Rainmeter Theme to have temperature overlays on the 
+Extended (not all my work) the popular Win10 Widgets Rainmeter Theme to have temperature overlays on the 
 medium-sized performance widgets.
 
 
@@ -21,8 +20,7 @@ Notes:
 	to 2000ms and Disk S.M.A.R.T. every 30 cycles for disk airflow temperature updates every 1/minute, 
 	(which is 1 click/minute).
 		
-To Do List:
--GPU Usage for GPU0 and GPU1
--GPU Temp for GPU0 and GPU1
--Move all sensor values to variables and make an .ini file to set them all in one place
--Recolor the Network graph colors because now it looks plain
+-You will need to have HWiNFO64 running to provide temperatures and GPU Usage. Set it to run minimized to
+	tray on startup. 
+
+-You need to set your own hardware sensor IDs in sensorInfo.ini
